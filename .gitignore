@@ -1,0 +1,10 @@
+.*
+*.log
+firebase*
+docs/
+node_modules/
+
+!.editorconfig
+!.eslintrc.json
+!.gitignore
+!.prettierrc.json
