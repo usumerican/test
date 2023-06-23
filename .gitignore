@@ -1,7 +1,7 @@
 .*
 *.log
 firebase*
-docs/
+dist/
 node_modules/
 
 !.editorconfig
